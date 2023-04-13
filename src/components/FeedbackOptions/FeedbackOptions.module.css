@@ -1,0 +1,16 @@
+.list {
+	display: flex;
+}
+.button {
+	border: 1px solid rgb(162, 167, 167);
+	border-radius: 2px;
+	padding: 1px 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+	background-color: rgb(127, 155, 231);
+}
